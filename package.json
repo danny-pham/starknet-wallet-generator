@@ -1,0 +1,27 @@
+{
+    "name": "starknet-wallet-generator",
+    "version": "1.0.0",
+    "description": "starknet wallet generator",
+    "main": "starknet-wallet-generator.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/danny-pham/starknet-wallet-generator.git"
+    },
+    "keywords": [
+      "starknet",
+      "wallet",
+      "generator"
+    ],
+    "author": "danny-pham",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/danny-pham/starknet-wallet-generator/issues"
+    },
+    "homepage": "https://github.com/danny-pham/starknet-wallet-generator#readme",
+    "dependencies": {
+      "seed-phrase-generator": "^1.2.5"
+    }
+  }
