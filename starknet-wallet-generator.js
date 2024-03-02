@@ -1,4 +1,4 @@
-const seedPhraseGenerator = require('./seed-phrase-generator');
+const seedPhraseGenerator = require('seed-phrase-generator');
 const ethers = require('ethers');
 
 async function createStarkNetWalletFromSeedPhrase(seedPhrase) {
